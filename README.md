@@ -4,7 +4,6 @@ Run the completed project to understand what you're building
 
 ```sh
 # Clone the project
-git clone https://github.com/gitconnected/hacker-news-reader.git
 
 # Install dependencies
 npm install
